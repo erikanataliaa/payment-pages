@@ -6,5 +6,6 @@ Lalu pada step "Payment", user dapat memilih Sistem Pengiriman dan Metode Pembay
 Dan pada step terakhir, user dapat melihat Order ID dan Summary yang berisi rincian pembayaran yang telah dilakukan oleh user. <br>
 
 <li>Run App</li>
+npm install
 npm run serve
 
